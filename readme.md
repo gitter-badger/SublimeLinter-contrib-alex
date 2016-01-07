@@ -1,5 +1,7 @@
 # SublimeLinter-contrib-alex [![Build Status](https://travis-ci.org/sindresorhus/SublimeLinter-contrib-alex.svg?branch=master)](https://travis-ci.org/sindresorhus/SublimeLinter-contrib-alex)
 
+[![Join the chat at https://gitter.im/sindresorhus/SublimeLinter-contrib-alex](https://badges.gitter.im/sindresorhus/SublimeLinter-contrib-alex.svg)](https://gitter.im/sindresorhus/SublimeLinter-contrib-alex?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](screenshot.png)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [Alex](http://alexjs.com). It will be used with files that have the "plain text" & "markdown" syntax.
